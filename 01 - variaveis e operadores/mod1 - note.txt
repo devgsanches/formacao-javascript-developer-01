@@ -1,0 +1,9 @@
+Variáveis
+
+VAR - Possui escopo global e é possível reatribuir um valor
+
+CONST (variável onde seu valor é constante - não muda) Escopo local
+LET (varíavel onde é possível reatribuir um valor à mesma - podendo mudar) Escopo local
+
+.toFixed()
+// delimitar quantos números após a casa decimal serão expostos.
