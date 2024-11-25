@@ -1,3 +1,3 @@
 # JavaScript Developer
 
-Treinos referentes à Formação JavaScript Developer da Dio.
+## Treinos referentes ao primeiro mod da Formação JavaScript Developer da Dio.
